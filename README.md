@@ -532,6 +532,7 @@ Das folgende Beispiel zeigt die Implementierung in C für einen Arduino Uno (Atm
   <wokwi-led color="green" pin="11" port="B" label="11"></wokwi-led>
   <span id="simulation-time"></span>
 </div>
+
 ```cpp       arduino.cpp
 typedef struct {
     int state;
